@@ -1,6 +1,4 @@
-"FREE SOURCE CODE" How to run the Teachers Record Management System 
-FIRST DOWNLOAD
-
+Guidelines
 
 1.XAMPP
 
